@@ -1,4 +1,5 @@
 # Instarify. A functional prototype of an app.
+
 Instarify is a Flutter project for Instagram Templates.
 Download it through the debug apk file found here: https://drive.google.com/drive/folders/1CikgkBPnfWAsoOSmRCXkYC9bNsprnEDW.
  
@@ -7,7 +8,7 @@ API calls restriction: 30 requests per hour.
 Figma link: 
 https://www.figma.com/file/RWIYmKWmcxaYG6t1gV2jHO/Figma-Prototype---Team-40---2022?node-id=65-505&t=gpDa5pvx4HwTXQgP-0
 
-
+Team: Nikolaos Stamatopoulos, Argyro Tsipi
 
 ## Getting Started
 
