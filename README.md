@@ -1,6 +1,7 @@
 # instarify
 
-A new Flutter project.
+A new Flutter project. 
+Figma link: https://www.figma.com/file/RWIYmKWmcxaYG6t1gV2jHO/Figma-Prototype---Team-40---2022?node-id=65-505&t=gpDa5pvx4HwTXQgP-0
 
 ## Getting Started
 
