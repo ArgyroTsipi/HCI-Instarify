@@ -1,6 +1,6 @@
 # Instarify
 Instarify is a Flutter project for a functional prototype of an application for Instagram Templates.
-Download it through the debug apk file. on the project's folder.
+Download it through the debug apk file found here: https://drive.google.com/drive/folders/1CikgkBPnfWAsoOSmRCXkYC9bNsprnEDW.
  
 API calls restriction: 30 requests per hour.
  
